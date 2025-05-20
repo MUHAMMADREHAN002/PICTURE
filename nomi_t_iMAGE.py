@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1M0BbgGK1t1PmN_NJkzwTratfUJz4hHrr
 """
 
-!pip install diffusers transformers accelerate scipy safetensors
+pip install diffusers transformers accelerate scipy safetensors
 
 from huggingface_hub import login
 
